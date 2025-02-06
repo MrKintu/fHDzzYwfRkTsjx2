@@ -1,0 +1,14 @@
+# Deep Learning Framework
+tensorflow==2.10.0  # Ensure compatibility with your code
+
+# Machine Learning Libraries
+scikit-learn==1.1.3  # For traditional machine learning algorithms and preprocessing
+pandas==1.5.3        # For data manipulation and analysis
+numpy==1.23.5        # For numerical operations
+
+# Data Visualization Libraries
+matplotlib==3.6.2     # For plotting graphs
+seaborn==0.12.2       # For enhanced visualizations
+
+# Jupyter Notebook
+notebook==6.5.0       # To run the Jupyter notebooks
